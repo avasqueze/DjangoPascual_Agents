@@ -14,5 +14,3 @@ uv sync --locked
 ```
 
 Después configura `.env` y abre `intro_langchain_academica.ipynb` siguiendo el README de esa carpeta. Puedes elegir **OpenAI** u **OpenRouter con modelos gratuitos** mediante `MODEL_PROVIDER`. La práctica usa datos locales y se ejecuta sin iniciar el servidor Django.
-
-La [guía docente](clase_langchain/guia_docente.md) contiene la secuencia de explicación y los resultados de referencia. La documentación de la aplicación web está en [README_Django.md](README_Django.md).
